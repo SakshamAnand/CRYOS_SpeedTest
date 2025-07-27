@@ -10,7 +10,7 @@ import statistics
 
 # Set page configuration
 st.set_page_config(
-    page_title="Cryos - Internet Speed Test",
+    page_title="Cryos - Network Suitability Analyzer",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
