@@ -246,7 +246,7 @@ def measure_jitter(num_pings=10):
 st.markdown("""
     <div style="text-align:center; padding: 20px 0;">
         <h1 style='font-size: 3em; margin-bottom: 0;'>🚀 Cryos</h1>
-        <h2 style='margin-top: 0; font-size: 1.8em; font-weight: normal;'>Internet Speed Test</h2>
+        <h2 style='margin-top: 0; font-size: 1.8em; font-weight: normal;'>Network Suitability Analyzer</h2>
         <p style='font-size: 1.2em; opacity: 0.8;'>Experience blazing-fast connectivity testing with analysis tailored to your digital lifestyle</p>
     </div>
 """, unsafe_allow_html=True)
