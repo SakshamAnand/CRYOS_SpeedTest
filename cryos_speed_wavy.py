@@ -676,25 +676,12 @@ with creator_col1:
             <h3 style="margin-top: 0;">🌌 Saksham Anand</h3>
             <p>A tech enthusiast passionate about building innovative digital experiences that enhance everyday connectivity.</p>
             <div style="display: flex; gap: 10px;">
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 GitHub</a>
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 LinkedIn</a>
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 Twitter</a>
+                <a href="https://github.com/SakshamAnand/" style="text-decoration: none; color: #00FFFF;">🔗 GitHub</a>
+                <a href="https://www.linkedin.com/in/saksham-anand05/" style="text-decoration: none; color: #00FFFF;">🔗 LinkedIn</a>
             </div>
         </div>
     """, unsafe_allow_html=True)
 
-with creator_col2:
-    st.markdown("""
-        <div style="background: rgba(0, 30, 60, 0.7); border-radius: 15px; padding: 20px; height: 100%; border: 1px solid rgba(0, 255, 255, 0.3);">
-            <h3 style="margin-top: 0;">🌠 Darshil Agarwal</h3>
-            <p>Loves blending creativity with code to craft user-friendly solutions that solve real-world connectivity challenges.</p>
-            <div style="display: flex; gap: 10px;">
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 GitHub</a>
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 LinkedIn</a>
-                <a href="#" style="text-decoration: none; color: #00FFFF;">🔗 Twitter</a>
-            </div>
-        </div>
-    """, unsafe_allow_html=True)
 
 # Enhanced footer
 st.markdown("""
